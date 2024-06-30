@@ -1,4 +1,4 @@
-This repository contains a Python script that extracts book data from a website using web scraping techniques. The script uses the httpx library to send HTTP requests to the website, selectolax to parse the HTML content, and pandas to store the extracted data in a structured format.  
+This repository contains a simple Python script that extracts book data from a website using web scraping techniques. The script uses the httpx library to send HTTP requests to the website, selectolax to parse the HTML content, and pandas to store the extracted data in a structured format.  
 
 # Features:
 
