@@ -11,5 +11,5 @@ This repository contains a simple Python script that extracts book data from a w
 
 --- Clone the repository  
 --- Install the required libraries by running pip install httpx selectolax pandas tabulate  
---- Run the script using python main.py 
+--- Run the script using python main.py   
 --- The script will extract the book data and save it to an Excel file named "Books.xlsx"
